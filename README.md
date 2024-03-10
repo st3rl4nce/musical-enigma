@@ -1,3 +1,4 @@
+# How to run
 * Run `npm install`
 * Now run `node index.js` to run the api
 * the root `/` will contain the api's documentation about it's different endpoints.
